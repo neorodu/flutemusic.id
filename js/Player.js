@@ -1,9 +1,9 @@
 // ========== TRACK DATA (isi di sini) ==========
 const TRACKS = [
   {
-    title: "udan enak ",
-    artist: "tidur ",
-    src: "https://archive.org/download/udan-enak/udan%20enak.mp3", 
+    title: "cover wuxia",
+    artist: "versi jawa",
+    src: "https://archive.org/download/versi-jawa/Versi%20jawa.mp3", 
     isDemo: false
   },
     {
